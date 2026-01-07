@@ -54,15 +54,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pixelpalace-coder&show_icons=true&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelpalace-coder&layout=compact&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pixelpalace-coder&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelpalace-coder&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" height="160" />
 </p>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pixelpalace-coder&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pixelpalace-coder&theme=dark&hide_border=true" />
 </p>
+>
 
 
 ## 📂 Featured Projects
