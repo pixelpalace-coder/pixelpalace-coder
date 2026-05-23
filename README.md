@@ -1,77 +1,115 @@
-<!-- ===================== -->
-<!--  GitHub Profile README -->
-<!-- ===================== -->
+md
+<!-- ======================================== -->
+<!--        GitHub Profile README             -->
+<!-- ======================================== -->
 
-<h1 align="center">Hi 👋, I'm PixelPalace Coder</h1>
+<h1 align="center">Hey 👋, I'm Suryansh.exe</h1>
+
+<h3 align="center">
+Creative Developer • Vibecoder • UI Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://github.com/pixelpalace-coder">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Developer;Frontend+Developer;UI+%2F+UX+Focused+Engineer;Building+Clean+and+Scalable+Apps;Learning+Every+Day" alt="Typing SVG" />
+  <a href="https://github.com/voidnull-dev">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=Python+Developer;Frontend+Engineer;Creative+Vibecoder;Building+Aesthetic+Web+Experiences;Clean+UI+%2B+Smart+Logic;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
+
+
+## 🧠 About Me
+
+python
+class Suryansh:
+    username = "voidnull-dev"
+
+    skills = {
+        "languages": ["Python", "JavaScript", "MySQL"],
+        "frontend": ["HTML", "CSS", "Tailwind CSS"],
+        "interests": [
+            "Aesthetic UI/UX",
+            "Creative Coding",
+            "Automation",
+            "Modern Web Development"
+        ]
+    }
+
+    motto = "Code. Create. Evolve."
+
+
+* 🚀 Passionate about building modern and aesthetic web experiences
+* 🎨 Focused on clean UI, smooth animations, and responsive design
+* 🐍 Love creating automation tools and useful utilities with Python
+* ⚡ Exploring AI tools, futuristic interfaces, and creative frontend ideas
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,mysql,html,css,tailwind,git,github,vscode,firebase&perline=5" />
+</p>
+
+---
+
+# 🛠️ What I Build
+
+✨ Interactive Frontend Websites
+🤖 AI-Powered Tools & Utilities
+🐍 Python Automation Projects
+🎨 Aesthetic UI Concepts
+⚡ Fast & Responsive Web Applications
+
+---
+
+# 📂 Featured Projects
+
+## 🧠 AI Roadmap Generator
+
+Dynamic roadmap generator using APIs and smart logic.
+
+## 🌌 Futuristic UI Experiments
+
+Creative frontend interfaces with smooth animations and modern design.
+
+## 🐍 Python Productivity Tools
+
+Useful automation scripts and developer utilities.
+
+> More projects coming soon...
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=voidnull-dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=voidnull-dev&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=voidnull-dev&theme=tokyo-night&hide_border=true" width="95%"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/voidnull-dev">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🔹 Python & Front-End Developer  
-- 🔹 Focused on **clean UI**, **scalable logic**, and **performance**
-- 🔹 Strong interest in **modern web**, **automation**, and **AI-powered tools**
-- 🔹 Turning ideas into production-ready applications
-
----
-
-## 🚀 Tech Stack
-
-### 🧠 Programming Languages
-- **Python**
-- **JavaScript**
-
-### 🎨 Frontend
-- HTML5  
-- CSS3 / Tailwind CSS  
-- JavaScript (ES6+)  
-- GSAP / Three.js (for animations & 3D UI)
-
-### 🧩 Backend & Tools
-- Python (Automation, APIs, Logic)
-- Firebase
-- Git & GitHub
-- REST APIs
-
----
-
-## 🛠️ What I Build
-
-- 🔹 Interactive Frontend Websites  
-- 🔹 Python Automation Scripts  
-- 🔹 AI-Driven Roadmaps & Tools  
-- 🔹 Clean UI Dashboards  
-- 🔹 Experimental 3D Web Experiences  
-
----
-
-
-## 📂 Featured Projects
-
-- 🧠 **AI Roadmap Generator** – Dynamic learning paths using APIs  
-- 🌐 **Futuristic Web UIs** – GSAP + Three.js based animations  
-- 🐍 **Python Utilities** – Automation & productivity tools  
-
-> More projects coming soon…
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/pixelpalace-coder">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
 <p align="center">
-  <strong>“Code is not just written, it is designed.”</strong>
+  <img src="https://komarev.com/ghpvc/?username=voidnull-dev&label=Profile%20Views&color=8A2BE2&style=flat" />
 </p>
+
+---
+
+<h3 align="center">
+✦ Code is not just written — it is designed. ✦
+</h3>
+```
